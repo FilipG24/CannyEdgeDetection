@@ -1,0 +1,53 @@
+﻿  OpenCVApplication.cpp
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(181): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(217): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(192): warning C4101: 'fname': unreferenced local variable
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(486): warning C4002: too many arguments for function-like macro invocation 'max'
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(487): warning C4002: too many arguments for function-like macro invocation 'min'
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(507): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(508): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(509): warning C4244: '=': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(753): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(819): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(863): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(907): warning C4244: '=': conversion from '_Tp' to 'int', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(908): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(909): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(910): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(946): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(962): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(967): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(968): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(987): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1013): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1051): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1062): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1162): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1177): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1269): warning C4101: 'neighbors': unreferenced local variable
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1284): warning C4101: 'neighbors': unreferenced local variable
+c:\users\filip\desktop\pi\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1340): warning C4101: 'neighbors': unreferenced local variable
+  OpenCVApplication.vcxproj -> C:\Users\filip\Desktop\PI\OpenCVApplication-VS2017_OCV340_basic\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_ffmpeg340_64.dll
+  OpenCV\dll\Debug\opencv_world340d.dll
+          2 file(s) copied.
